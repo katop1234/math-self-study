@@ -26,13 +26,13 @@ Graduate-level mathematics self-study — the texts and papers I work through. E
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:11998e,100:38ef7d&amp;height=46&amp;section=header&amp;text=Topology%20%26amp%3B%20Geometry&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=58" width="100%"/>
 
-## [Topology & Geometry](Topology%20%26amp%3B%20Geometry)
+## [Topology & Geometry](Topology%20%26%20Geometry)
 
-- [A Textbook of Topology — Seifert & Threlfall](Topology%20%26amp%3B%20Geometry/A%20Textbook%20of%20Topology.pdf)
-- [Differential Topology — Guillemin & Pollack](Topology%20%26amp%3B%20Geometry/Differential_Topology.pdf)
-- [How Surfaces Intersect in Space — J. Scott Carter](Topology%20%26amp%3B%20Geometry/How%20Surfaces%20Intersect%20in%20Space.pdf)
-- [The Ricci Flow](Topology%20%26amp%3B%20Geometry/ricciflow.pdf)
-- [Topology](Topology%20%26amp%3B%20Geometry/Topology.pdf)
+- [A Textbook of Topology — Seifert & Threlfall](Topology%20%26%20Geometry/A%20Textbook%20of%20Topology.pdf)
+- [Differential Topology — Guillemin & Pollack](Topology%20%26%20Geometry/Differential_Topology.pdf)
+- [How Surfaces Intersect in Space — J. Scott Carter](Topology%20%26%20Geometry/How%20Surfaces%20Intersect%20in%20Space.pdf)
+- [The Ricci Flow](Topology%20%26%20Geometry/ricciflow.pdf)
+- [Topology](Topology%20%26%20Geometry/Topology.pdf)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:8360c3,100:2ebf91&amp;height=46&amp;section=header&amp;text=Non-Euclidean%20Geometry&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=58" width="100%"/>
 
@@ -71,13 +71,13 @@ Graduate-level mathematics self-study — the texts and papers I work through. E
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:434343,100:000000&amp;height=46&amp;section=header&amp;text=Logic%20%26amp%3B%20Metamathematics&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=58" width="100%"/>
 
-## [Logic & Metamathematics](Logic%20%26amp%3B%20Metamathematics)
+## [Logic & Metamathematics](Logic%20%26%20Metamathematics)
 
-- [Introduction to Metamathematics — Stephen Cole Kleene (1980)](Logic%20%26amp%3B%20Metamathematics/%28Bibliotheca%20Mathematica%29%20S.C.%20Kleene%20-%20Introduction%20to%20Metamathematics-North%20Holland%20%281980%29.pdf)
-- [Metamathematics](Logic%20%26amp%3B%20Metamathematics/metamath.pdf)
-- [Metamathematics — Stephen Wolfram](Logic%20%26amp%3B%20Metamathematics/Wolfram_Metamathematics.pdf)
-- [Metamathematics, Machines, and Gödel's Proof](Logic%20%26amp%3B%20Metamathematics/METAMATHEMATICS%2C%20MACHINES%2C%20AND%20GODEL_S%20PROOF.pdf)
-- [On Formally Undecidable Propositions (translated) — Kurt Gödel](Logic%20%26amp%3B%20Metamathematics/Godels_Paper_Translated.pdf)
+- [Introduction to Metamathematics — Stephen Cole Kleene (1980)](Logic%20%26%20Metamathematics/%28Bibliotheca%20Mathematica%29%20S.C.%20Kleene%20-%20Introduction%20to%20Metamathematics-North%20Holland%20%281980%29.pdf)
+- [Metamathematics](Logic%20%26%20Metamathematics/metamath.pdf)
+- [Metamathematics — Stephen Wolfram](Logic%20%26%20Metamathematics/Wolfram_Metamathematics.pdf)
+- [Metamathematics, Machines, and Gödel's Proof](Logic%20%26%20Metamathematics/METAMATHEMATICS%2C%20MACHINES%2C%20AND%20GODEL_S%20PROOF.pdf)
+- [On Formally Undecidable Propositions (translated) — Kurt Gödel](Logic%20%26%20Metamathematics/Godels_Paper_Translated.pdf)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1e3c72,100:2a5298&amp;height=46&amp;section=header&amp;text=Number%20Theory&amp;fontSize=26&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=58" width="100%"/>
 
